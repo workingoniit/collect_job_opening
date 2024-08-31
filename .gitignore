@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+get_job/
+__pycache__/
+*.py[cod]
+*.swp
+*.egg-info/
+*.egg
+*.pyo
+.DS_Store
